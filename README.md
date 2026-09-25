@@ -74,4 +74,8 @@ A paraphrase loses the thing that made it a decision. Every verdict lands in its
 4. Open one Claude Code session per seat and give each the same opening line: **"Read your handoff document and get started."**
 5. Read [`docs/08-lessons-learned.md`](docs/08-lessons-learned.md) before the first week. Every failure in it happened, and a new team should expect them.
 
+## About
+
+I'm [Carter Hanford](https://www.linkedin.com/in/carter-hanford), a Product Owner in St. Louis, and I run this team day to day. The companion repo, [claude-context-library](https://github.com/carter-hanford/claude-context-library), is a personal knowledge base Claude keeps honest: raw notes in, a cited wiki out.
+
 MIT licensed. Copy anything.
